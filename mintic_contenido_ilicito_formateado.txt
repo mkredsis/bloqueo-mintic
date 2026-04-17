@@ -1,4 +1,3 @@
-! Listado formateado para MKREDSIS - Redireccion a 172.16.2.20
 ||0.t.imgbox.com^$dnsrewrite=172.16.2.20
 ||01hosting.biz^$dnsrewrite=172.16.2.20
 ||04.aixlda262.shop^$dnsrewrite=172.16.2.20
