@@ -1556,7 +1556,6 @@
 ||goodtalen.com^$dnsrewrite=172.16.2.20
 ||goodtalens.com^$dnsrewrite=172.16.2.20
 ||googirls.110mb.com^$dnsrewrite=172.16.2.20
-||google.com^$dnsrewrite=172.16.2.20
 ||gopics.fun^$dnsrewrite=172.16.2.20
 ||goptix.shop^$dnsrewrite=172.16.2.20
 ||gossiplas.at.ua^$dnsrewrite=172.16.2.20
